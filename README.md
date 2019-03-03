@@ -1,5 +1,0 @@
-"# rsschool-2019Q1-html-css" 
-"# rsschool-2019Q1-html-css" 
-"# rsschool-2019Q1-cv" 
-"# rsschool-2019Q1-cv" 
-"# code-example" 
